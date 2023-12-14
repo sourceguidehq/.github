@@ -1,8 +1,8 @@
 <div align="center">
   <a href="YOUR_WEBSITE_URL" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="URL_TO_DARK_LOGO">
-    <img alt="SourceGuide Logo" src="URL_TO_LIGHT_LOGO" width="280"/>
+    <source media="(prefers-color-scheme: dark)" srcset="(https://github.com/sourceguidehq/.github/blob/main/profile/logo.png?raw=true)">
+    <img alt="SourceGuide Logo" src="https://github.com/sourceguidehq/.github/blob/main/profile/logo.png?raw=true" width="280"/>
   </picture>
   </a>
 </div>
