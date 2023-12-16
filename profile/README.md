@@ -29,7 +29,7 @@
 
 <p align="center">
   <br />
-  <a href="LINK_TO_YOUR_MAIN_GITHUB_REPO" rel="dofollow"><strong>Explore our Main GitHub Repository »</strong></a>
+  <a href="LINK_TO_REPO" rel="dofollow"><strong>Explore our Main GitHub Repository »</strong></a>
   <br />
   
   
