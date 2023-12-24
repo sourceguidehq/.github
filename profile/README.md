@@ -29,7 +29,7 @@
 
 <p align="center">
   <br />
-  <a href="LINK_TO_REPO" rel="dofollow"><strong>Explore our Main GitHub Repository »</strong></a>
+  <a href="https://github.com/sourceguidehq/main" rel="dofollow"><strong>Explore our Main GitHub Repository »</strong></a>
   <br />
   
   
