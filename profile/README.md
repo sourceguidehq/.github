@@ -7,18 +7,10 @@
 <br/>
 
 <p align="center">
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployed on Vercel">
-  </a>
-  <a href="SPONSOR_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Sponsor">
-  </a>
-  <a href="DISCORD_INVITE_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://t.me/sourceguide" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Discord">
-  </a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployed on Vercel"></a>
+  <a href="SPONSOR_LINK" target="_blank"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="Sponsor"></a>
+  <a href="DISCORD_INVITE_LINK" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://t.me/sourceguide" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Discord"></a>
 </p>
 
 <h1 align="center"> Explore Open Source, Connect with Opportunities.</h1>
